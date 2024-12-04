@@ -1,7 +1,7 @@
 # Red-Dead-Redemption-1-mod
 a Mod for Red dead redemption 1 created with Redhook sdk
 
-![MP3_Mod_Pic](https://github.com/RXDG14/Max-Payne-3-mod/assets/54236165/04a56195-b422-4c9e-b158-27a5cf3decdf)
+![MP3_Mod_Pic]((https://github.com/RXDG14/RDR1-Basic-Trainer-Mod/blob/main/RDR1_BasicTrainerPic.png?raw=true)
 
 This mod is based on rdr1 Redhook by K3rhos
 
