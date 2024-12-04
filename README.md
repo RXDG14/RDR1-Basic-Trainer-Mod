@@ -1,7 +1,7 @@
 # Red-Dead-Redemption-1-mod
 a Mod for Red dead redemption 1 created with Redhook sdk
 
-![MP3_Mod_Pic]((https://github.com/RXDG14/RDR1-Basic-Trainer-Mod/blob/main/RDR1_BasicTrainerPic.png?raw=true)
+![RDR1_ModPic](https://github.com/RXDG14/RDR1-Basic-Trainer-Mod/blob/main/RDR1_BasicTrainerPic.png)
 
 This mod is based on rdr1 Redhook by K3rhos
 
